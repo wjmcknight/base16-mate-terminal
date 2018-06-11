@@ -2,8 +2,8 @@
 # Base16 Atelier Savanna - Mate Terminal color scheme install script
 # Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/savanna)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Atelier Savanna Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-ateliersavanna-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Atelier Savanna"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-atelier-savanna"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

@@ -2,8 +2,8 @@
 # Base16 Flat - Mate Terminal color scheme install script
 # Chris Kempson (http://chriskempson.com)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Flat Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-flat-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Flat"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-flat"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

@@ -2,8 +2,8 @@
 # Base16 Tomorrow - Mate Terminal color scheme install script
 # Chris Kempson (http://chriskempson.com)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Tomorrow Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-tomorrow-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Tomorrow"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-tomorrow"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

@@ -2,8 +2,8 @@
 # Base16 Atelier Heath - Mate Terminal color scheme install script
 # Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/heath)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Atelier Heath Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-atelierheath-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Atelier Heath"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-atelier-heath"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

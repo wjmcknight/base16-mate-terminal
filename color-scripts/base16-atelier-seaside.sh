@@ -2,8 +2,8 @@
 # Base16 Atelier Seaside - Mate Terminal color scheme install script
 # Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/seaside/)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Atelier Seaside Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-atelierseaside-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Atelier Seaside"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-atelier-seaside"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

@@ -2,8 +2,8 @@
 # Base16 Bespin - Mate Terminal color scheme install script
 # Jan T. Sott
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Bespin Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-bespin-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Bespin"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-bespin"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

@@ -2,8 +2,8 @@
 # Base16 Apathy - Mate Terminal color scheme install script
 # Jannik Siebert (https://github.com/janniks)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Apathy Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-apathy-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Apathy"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-apathy"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

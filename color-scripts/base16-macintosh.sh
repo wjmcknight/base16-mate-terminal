@@ -2,8 +2,8 @@
 # Base16 Macintosh - Mate Terminal color scheme install script
 # Rebecca Bettencourt (http://www.kreativekorp.com)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Macintosh Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-macintosh-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Macintosh"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-macintosh"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

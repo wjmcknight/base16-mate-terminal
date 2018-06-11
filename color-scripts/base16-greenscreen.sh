@@ -2,8 +2,8 @@
 # Base16 Green Screen - Mate Terminal color scheme install script
 # Chris Kempson (http://chriskempson.com)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Green Screen Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-greenscreen-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Green Screen"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-greenscreen"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

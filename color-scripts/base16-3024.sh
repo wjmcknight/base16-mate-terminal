@@ -2,8 +2,8 @@
 # Base16 3024 - Mate Terminal color scheme install script
 # Jan T. Sott (http://github.com/idleberg)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 3024 Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-3024-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 3024"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-3024"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

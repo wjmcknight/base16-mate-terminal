@@ -2,8 +2,8 @@
 # Base16 Paraiso - Mate Terminal color scheme install script
 # Jan T. Sott
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Paraiso Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-paraiso-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Paraiso"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-paraiso"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

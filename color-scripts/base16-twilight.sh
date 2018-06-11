@@ -2,8 +2,8 @@
 # Base16 Twilight - Mate Terminal color scheme install script
 # David Hart (http://hart-dev.com)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Twilight Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-twilight-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Twilight"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-twilight"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

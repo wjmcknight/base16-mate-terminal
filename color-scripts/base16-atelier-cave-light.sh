@@ -3,7 +3,7 @@
 # Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/cave)
 
 [[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Atelier Cave Light"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-ateliercave-light"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-atelier-cave-light"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

@@ -2,8 +2,8 @@
 # Base16 Isotope - Mate Terminal color scheme install script
 # Jan T. Sott
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Isotope Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-isotope-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Isotope"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-isotope"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

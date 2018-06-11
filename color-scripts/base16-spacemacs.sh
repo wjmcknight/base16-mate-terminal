@@ -2,8 +2,8 @@
 # Base16 Spacemacs - Mate Terminal color scheme install script
 # Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Spacemacs Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-spacemacs-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Spacemacs"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-spacemacs"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

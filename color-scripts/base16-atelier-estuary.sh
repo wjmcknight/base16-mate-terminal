@@ -2,8 +2,8 @@
 # Base16 Atelier Estuary - Mate Terminal color scheme install script
 # Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/estuary)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Atelier Estuary Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-atelierestuary-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Atelier Estuary"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-atelier-estuary"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

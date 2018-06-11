@@ -2,8 +2,8 @@
 # Base16 Ocean - Mate Terminal color scheme install script
 # Chris Kempson (http://chriskempson.com)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Ocean Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-ocean-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Ocean"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-ocean"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

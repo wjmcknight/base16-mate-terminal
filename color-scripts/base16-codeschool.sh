@@ -2,8 +2,8 @@
 # Base16 Codeschool - Mate Terminal color scheme install script
 # brettof86
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Codeschool Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-codeschool-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Codeschool"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-codeschool"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

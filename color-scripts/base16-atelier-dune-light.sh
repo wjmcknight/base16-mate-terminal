@@ -3,7 +3,7 @@
 # Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/dune)
 
 [[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Atelier Dune Light"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-atelierdune-light"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-atelier-dune-light"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

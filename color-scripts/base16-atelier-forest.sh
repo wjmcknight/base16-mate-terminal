@@ -2,8 +2,8 @@
 # Base16 Atelier Forest - Mate Terminal color scheme install script
 # Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/forest)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Atelier Forest Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-atelierforest-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Atelier Forest"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-atelier-forest"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

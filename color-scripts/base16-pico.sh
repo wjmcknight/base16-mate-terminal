@@ -2,8 +2,8 @@
 # Base16 Pico - Mate Terminal color scheme install script
 # PICO-8 (http://www.lexaloffle.com/pico-8.php)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Pico Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-pico-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Pico"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-pico"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

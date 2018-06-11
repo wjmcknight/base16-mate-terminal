@@ -2,8 +2,8 @@
 # Base16 Atelier Dune - Mate Terminal color scheme install script
 # Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/dune)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Atelier Dune Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-atelierdune-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Atelier Dune"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-atelier-dune"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

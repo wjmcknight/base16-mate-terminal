@@ -2,8 +2,8 @@
 # Base16 Seti UI - Mate Terminal color scheme install script
 # 
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Seti UI Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-setiui-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Seti"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-seti"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

@@ -2,8 +2,8 @@
 # Base16 Ashes - Mate Terminal color scheme install script
 # Jannik Siebert (https://github.com/janniks)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Ashes Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-ashes-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Ashes"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-ashes"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

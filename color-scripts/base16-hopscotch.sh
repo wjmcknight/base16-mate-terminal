@@ -2,8 +2,8 @@
 # Base16 Hopscotch - Mate Terminal color scheme install script
 # Jan T. Sott
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Hopscotch Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-hopscotch-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Hopscotch"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-hopscotch"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

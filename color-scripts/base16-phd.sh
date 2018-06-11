@@ -2,8 +2,8 @@
 # Base16 PhD - Mate Terminal color scheme install script
 # Hennig Hasemann (http://leetless.de/vim.html)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 PhD Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-phd-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 PhD"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-phd"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

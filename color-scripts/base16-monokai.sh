@@ -2,8 +2,8 @@
 # Base16 Monokai - Mate Terminal color scheme install script
 # Wimer Hazenberg (http://www.monokai.nl)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Monokai Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-monokai-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Monokai"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-monokai"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

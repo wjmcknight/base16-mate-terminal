@@ -2,8 +2,8 @@
 # Base16 Embers - Mate Terminal color scheme install script
 # Jannik Siebert (https://github.com/janniks)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Embers Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-embers-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Embers"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-embers"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

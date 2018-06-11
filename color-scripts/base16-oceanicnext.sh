@@ -2,8 +2,8 @@
 # Base16 OceanicNext - Mate Terminal color scheme install script
 # https://github.com/voronianski/oceanic-next-color-scheme
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 OceanicNext Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-oceanicnext-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 OceanicNext"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-oceanicnext"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

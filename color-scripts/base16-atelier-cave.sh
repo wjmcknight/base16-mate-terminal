@@ -2,8 +2,8 @@
 # Base16 Atelier Cave - Mate Terminal color scheme install script
 # Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/cave)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Atelier Cave Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-ateliercave-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Atelier Cave"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-atelier-cave"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

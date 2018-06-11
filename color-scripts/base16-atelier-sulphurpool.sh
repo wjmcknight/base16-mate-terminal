@@ -2,8 +2,8 @@
 # Base16 Atelier Sulphurpool - Mate Terminal color scheme install script
 # Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/sulphurpool)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Atelier Sulphurpool Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-ateliersulphurpool-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Atelier Sulphurpool"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-atelier-sulphurpool"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

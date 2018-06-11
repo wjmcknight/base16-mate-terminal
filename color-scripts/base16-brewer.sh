@@ -2,8 +2,8 @@
 # Base16 Brewer - Mate Terminal color scheme install script
 # Timothée Poisot (http://github.com/tpoisot)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Brewer Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-brewer-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Brewer"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-brewer"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

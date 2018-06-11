@@ -2,8 +2,8 @@
 # Base16 Solar Flare - Mate Terminal color scheme install script
 # Chuck Harmston (https://chuck.harmston.ch)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Solar Flare Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-solarflare-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Solar Flare"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-solarflare"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

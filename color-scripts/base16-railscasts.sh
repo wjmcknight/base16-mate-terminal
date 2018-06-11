@@ -2,8 +2,8 @@
 # Base16 Railscasts - Mate Terminal color scheme install script
 # Ryan Bates (http://railscasts.com)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Railscasts Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-railscasts-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Railscasts"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-railscasts"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

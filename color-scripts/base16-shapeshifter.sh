@@ -2,8 +2,8 @@
 # Base16 shapeshifter - Mate Terminal color scheme install script
 # Tyler Benziger (http://tybenz.com)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 shapeshifter Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-shapeshifter-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 shapeshifter"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-shapeshifter"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

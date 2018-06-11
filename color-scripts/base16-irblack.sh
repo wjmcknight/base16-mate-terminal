@@ -2,8 +2,8 @@
 # Base16 IR Black - Mate Terminal color scheme install script
 # Timothée Poisot (http://timotheepoisot.fr)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 IR Black Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-irblack-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 IR Black"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-irblack"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

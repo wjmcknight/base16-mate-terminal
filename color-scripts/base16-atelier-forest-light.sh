@@ -3,7 +3,7 @@
 # Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/forest)
 
 [[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Atelier Forest Light"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-atelierforest-light"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-atelier-forest-light"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

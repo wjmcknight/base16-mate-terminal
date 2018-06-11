@@ -2,8 +2,8 @@
 # Base16 Pop - Mate Terminal color scheme install script
 # Chris Kempson (http://chriskempson.com)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Pop Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-pop-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Pop"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-pop"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

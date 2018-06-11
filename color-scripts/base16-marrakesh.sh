@@ -2,8 +2,8 @@
 # Base16 Marrakesh - Mate Terminal color scheme install script
 # Alexandre Gavioli (http://github.com/Alexx2/)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Marrakesh Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-marrakesh-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Marrakesh"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-marrakesh"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 

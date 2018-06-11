@@ -2,8 +2,8 @@
 # Base16 Darktooth - Mate Terminal color scheme install script
 # Jason Milkins (https://github.com/jasonm23)
 
-[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Darktooth Dark"
-[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-darktooth-dark"
+[[ -z "$PROFILE_NAME" ]] && PROFILE_NAME="Base 16 Darktooth"
+[[ -z "$PROFILE_SLUG" ]] && PROFILE_SLUG="base-16-darktooth"
 [[ -z "$DCONFTOOL" ]] && DCONFTOOL=dconf
 [[ -z "$BASE_KEY" ]] && BASE_KEY=/org/mate/terminal/profiles
 
