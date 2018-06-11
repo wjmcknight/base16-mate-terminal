@@ -10,4 +10,4 @@ Choose a color sheme
 
 Install it:
 
-```source base16-mate-terminal/base16-default.dark.sh``` (change to your color choice)
+```source base16-mate-terminal/color-scripts/base16-default.dark.sh```
